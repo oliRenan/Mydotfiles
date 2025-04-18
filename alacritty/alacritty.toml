@@ -1,0 +1,52 @@
+
+[window]
+decorations = "full"
+opacity = 0.85  # baseado no [85] da sua config do URxvt
+
+[window.padding]
+x = 5
+y = 5
+
+[font]
+size = 11.5
+
+[font.normal]
+family = "Iosevka"
+style = "Regular"
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+foreground = "0xfbf1c7"
+background = "0x1A1C1F"
+
+[colors.cursor]
+text = "0x1A1C1F"
+cursor = "0xff3232"
+
+[colors.normal]
+black   = "0x665c54"
+red     = "0xea6962"
+green   = "0xa9b665"
+yellow  = "0xe78a4e"
+blue    = "0x7daea3"
+magenta = "0xd3869b"
+cyan    = "0x89b482"
+white   = "0xd4be98"
+
+[colors.bright]
+black   = "0x928374"
+red     = "0xea6962"
+green   = "0xa9b665"
+yellow  = "0xd8a657"
+blue    = "0x7daea3"
+magenta = "0xd3869b"
+cyan    = "0x89b482"
+white   = "0xd4be98"
+
+[colors.selection]
+background = "0xff3232"
+text = "0xffffff"
+
+
